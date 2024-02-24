@@ -53,7 +53,7 @@
 
   
   <a href="https://www.instagram.com/ebaad09/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=833AB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
 
 
