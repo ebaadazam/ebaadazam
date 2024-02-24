@@ -68,6 +68,12 @@
   <a href="https://leetcode.com/ebaad09/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
+
+  
+
+  <a href="https://www.hackerrank.com/profile/ebaadazam82881" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
+  </a>
  
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   
