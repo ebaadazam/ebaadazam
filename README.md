@@ -31,6 +31,9 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
   <img width="12" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" alt="leetcode logo"  />
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
   <img width="12" />
@@ -72,11 +75,5 @@
 
   
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ebaadazam/ebaadazam/output/snake.svg" alt="Snake animation" />
 
 ###
