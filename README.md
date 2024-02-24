@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
 
      <a href="https://www.leetcode.com/ebaad09/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
  
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   
