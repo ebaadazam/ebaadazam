@@ -48,7 +48,7 @@
 
   
   <a href="https://www.instagram.com/ebaad09/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
 
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
