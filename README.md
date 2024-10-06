@@ -46,10 +46,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/>
 </a>
 
-<a href="https://microservices.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/microservices.png" alt="microservices" width="40" height="40"/>
-</a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
@@ -96,10 +92,6 @@
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_logo.svg" alt="intellij" width="40" height="40"/>
 </a>
 
 <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer">
