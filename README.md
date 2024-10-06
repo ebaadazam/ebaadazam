@@ -104,7 +104,7 @@
 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-</a>
+</a><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebaadazam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ebaadazam" /></p>
