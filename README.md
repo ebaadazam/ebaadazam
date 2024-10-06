@@ -22,12 +22,9 @@
 <p align="left">
 
 <a href="https://twitter.com/ebaad90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebaadazam" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/ebaadazam90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebaadazam90" height="30" width="40" /></a>
-
 <a href="https://instagram.com/ebaad09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebaad09" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/C0deWithEbaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ebaad Azam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@C0deWithEbaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ebaad Azam" height="30" width="40" /></a>
 
 </p>
 
