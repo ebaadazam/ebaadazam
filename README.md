@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://x.com/ebaad90" target="blank"><img src="https://img.shields.io/twitter/follow/ebaad90?logo=twitter&style=for-the-badge" alt="ebaadazam"  </p>
 
-- 🔭 I’m currently working on **E-Commerce Web App**
+- 🔭 I’m currently working on **Backend & Frontend Technologies**
 
-- 🌱 I’m currently learning **Microservices Architecture and System Design & Reactjs**
+- 🌱 I’m currently learning **Microservices Architecture and System Design & React Native**
 
-- 💬 Ask me about **Java Spring Boot**
+- 💬 Ask me about **Java Spring Boot, RESTful APIs, Microservices, MySQL/MongoDB**
 
 - 📫 How to reach me **ebaadazam82881@gmail.com**
 
